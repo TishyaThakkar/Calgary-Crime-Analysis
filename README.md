@@ -56,5 +56,17 @@ Built using **Power BI Desktop**, the dashboards include:
 
 
 
-## 📜 Licen
+## 📜 license
 This project uses publicly available data and is intended for educational and analytical purposes.
+
+
+
+
+
+
+
+
+
+
+
+
